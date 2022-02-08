@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/tatsuz0u/AlertKit.git",
         "state": {
           "branch": "custom",
-          "revision": "7be1b8fe55399ddd60826b0206de1cf0bc767f6f",
+          "revision": "39b01c53ffadf3dab9871dd4c960cd81af5246b6",
           "version": null
         }
       },
@@ -42,7 +42,7 @@
         "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
         "state": {
           "branch": "master",
-          "revision": "c874e5ef178a65b6a2b6a04d5981652d4fa95e22",
+          "revision": "c21f9abbfa29dd3e1456387503d722ca5d11a71e",
           "version": null
         }
       },
